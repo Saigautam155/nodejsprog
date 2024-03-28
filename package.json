@@ -1,0 +1,22 @@
+{
+  "name": "nodeprog",
+  "version": "1.0.0",
+  "description": "this is nodejs application for displaying the student registration form details",
+  "main": "studregnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saigautam155/nodejsprog.git"
+  },
+  "author": "\\",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saigautam155/nodejsprog/issues"
+  },
+  "homepage": "https://github.com/Saigautam155/nodejsprog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
